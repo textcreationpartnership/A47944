@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Let me speake too? or, Eleven queries humbly proposed to the officers of the army concerning the late alteration of government</title>
+         </titleStmt>
+         <extent>Approx. 14KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A47944</idno><idno type="EEBO-CITATION">12940090</idno>
+  <idno type="VID">95850</idno>
+  <idno type="EEBO-PROQUEST">2248516179</idno>
+  
+            <idno type="STC">Wing L1329</idno>
+            <idno type="STC">ESTC R14742</idno>
+            <idno type="OCLC">12940090</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A47944)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 95850)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 388:13)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Let me speake too? or, Eleven queries humbly proposed to the officers of the army concerning the late alteration of government</title>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1659.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Union Theological Seminary Library, New York.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="geographic_name">Great Britain --  Kings and rulers.</term>
+               <term type="geographic_name">Great Britain --  Politics and government --  1649-1660.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-03 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-05 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-05 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:95850:1"/>
+            <p>
+               <hi>Let me Speake too?</hi> OR, Eleven <hi>QUERIES,</hi> Humbly Proposed to the Officers of the ARMY Concerning, The late Alteration of <hi>Government.</hi>
+            </p>
+            <p>The last Testimony amongst men both Greeks and Bar<g ref="char:EOLhyphen"/>barians, which no time will abolish, is that which by Oath, calleth the Gods to be sureties of their Cove<g ref="char:EOLhyphen"/>nants. <hi>Procopius.</hi>
+            </p>
+            <q>
+               <bibl>Psal. 15. 4.</bibl>
+               <p>Having sworn to his own hurt, he changeth not?</p>
+            </q>
+            <q>Let your moderation be known to all men, for the Lord is at hand.</q>
+            <p>
+               <hi>London,</hi> Printed 1659.</p>
+            <pb facs="tcp:95850:2"/>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:95850:2"/>
+            <opener>
+               <salute>Gentlemen</salute>
+            </opener>
+            <p>AS it pleased the Lord of Hosts to conduct you through many dif<g ref="char:EOLhyphen"/>ficulties hitherto, with whom to this time I have kept pace, and wherein I cannot accord, I humbly with all affection propos<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> my scruples, being willing to be delivered from any error and misapprehen<g ref="char:EOLhyphen"/>sion in any kind, and that which is given with the right hand, will not (I hope) be taken with the left: And let me acquaint you, it is not pri<g ref="char:EOLhyphen"/>vate Interest or worldly gaine is any ground at all to incline me to <hi>Quae<g ref="char:EOLhyphen"/>re,</hi> for I was never no Courtier, nor received any benefit by it, nor was e<g ref="char:EOLhyphen"/>ver like to do, nor ever received the least personal injury from the long Parliament.</p>
+            <p>Therefore as they are the naked and plaine result of an unbyas<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ed mind, I hope you will the rather bear with them and me, I know some a<g ref="char:EOLhyphen"/>mongst you (which I am sorry to see) takes all ill, and resents nothing to be reason but that which comports with their owne humours, as for them, I am in little hope either to receive or give satisfaction▪</p>
+            <p>This only I would farther say, that the former blessings of God and his mercy unto you is no argument at all that he will ever continue the same, but will (as he hath done to other people) more highly declare him<g ref="char:EOLhyphen"/>self against you, in case you take sanctuary at unrighteous wayes and courses, and what are not justifiable before God and men: You have I loved above all the nations of the earth, I therefore will punish you for your iniquity. I do not know any one action that ever brought your prin<g ref="char:EOLhyphen"/>ciples into suspition, and that you bear not the same good will to righteous and just proceedings, as this last of dethroning his Highness without any reason or cause given, at least worthy such severity: All that I have fur<g ref="char:EOLhyphen"/>ther to say is, that if you have done well, and have the testimony of a good conscience, the Lord establish you, if not, God give you repentance, and make restitution.</p>
+            <list>
+               <pb n="2" facs="tcp:95850:3"/>
+               <item>
+                  <hi>Query.</hi> 1. WHether there be any power or authority by Kings or Protectors, with Parliament or Parliaments a<g ref="char:EOLhyphen"/>lone; or a Free-state so called; and what other Go<g ref="char:EOLhyphen"/>vernment soever be more <hi>Jure divino,</hi> than another; and the reason of this Quere is this; because no one Government, but hath been as beneficiall a Government to the people as the o<g ref="char:EOLhyphen"/>ther: And there is nothing in any new divised way of Rotati<g ref="char:EOLhyphen"/>on, (which in it self is seemingly rationall) but whether o<g ref="char:EOLhyphen"/>ther Governments be not every way as rational, and freer from inconveniences in the practise of it, than the other, and far more, if well confidered.</item>
+               <item>2. Whether the late Protector was not proclaimed, as Pro<g ref="char:EOLhyphen"/>tector and Supream Magistrate, by the commanders in cheif of the Army in the greatest solemnity imaginable, first at the Exchange in <hi>London, Westminster,</hi> and afterward throughout <hi>England, Scotland</hi> and <hi>Ireland,</hi> with the greatest testimonies of the Souldiers good will and liking, and of the peoples re<g ref="char:EOLhyphen"/>ception and entertainment with a <hi>nemine contradicente.</hi>
+               </item>
+               <item>3. Whether the Officers and Souldiers of the Army afterward upon more serious deliberation did not generally addresse themselves unto the Protector as supreame magistrate and so did further thereby oblige themselves and by such a kind of transaction subjected themselves by way of the most solemne ingagements unto him, as supreame magistrate.</item>
+               <item>4. Whether the people from all quarters of the Nation did not after the most solemne manner, addresse themselves like<g ref="char:EOLhyphen"/>wise unto him, with the most Cordial, Zealous, and pathetical expressions; that was possible, for a poor people, tired out with War and blood to utter: Thinking with themselves, that now they were arrived at the faire haven of peace and safety: and withall, let this be considered also: that if an agreement of the people so much talked of by some be that which would be
+<pb n="3" facs="tcp:95850:3"/> as a fundamental basis for a Government to be setled upon; then loe here it is, I think it may be said, without the least kinde of presumption: That noe Prince or King of <hi>England,</hi> or any other Government, since this was a land, had a greater Testimony and witness, and agreement of the people; both religious and others, than this Protector hath, Having about foure or five hundred thousand hands, and twice as many hearts besides.</item>
+               <item>5: Whether he was not acknowledged and recognized by the freest Parliament Chosen many years, as supream Magi<g ref="char:EOLhyphen"/>strate.</item>
+               <item>6: Whether the Lord <hi>Fleetwood, Desbrow Lambert, Bury, Hew<g ref="char:EOLhyphen"/>son, Cooper,</hi> &amp;c: did not Swear to be true to him as Protector when they sat in Parliament: and how hatefull to God and men, yea to the very Heathens have such things been, <hi>Ezekiell</hi> 17. 12, <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>3, 14, 15. Speaking of the faith that the Hebrew Kings had given to the <hi>Babylonians,</hi> shall he prosper, shall he escape that doth such things; or shall he escape, that breaks the Co<g ref="char:EOLhyphen"/>venant and be delivered. Verse 16, <hi>As I live, saith the Lord God, Surely in the place where the King dwelleth that made him King, whose oath he despised, and whose Covenant he brake, even with him in the midst of Babylon he shall die.</hi> Verse: 18. <hi>Seeing he despised the oath, by breaking the Covenant, (when loe, he had given his hand) and hath done all these things, he shall not escape:</hi>
+                  <sp>
+                     <speaker>Philo:</speaker>
+                     <p>An oath is Gods Testimony of a thing in Question?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Austin,</speaker>
+                     <p>He that swears by a stone if he swear falsly is perjured, and afterwards saith: The stone heareth not thy words but God punishes thy fraud▪</p>
+                  </sp>
+               </item>
+               <item>7 Whether the late Protector (for so it seems he must be cal<g ref="char:EOLhyphen"/>led) ever gave any reason or ground at all, for these Gentle<g ref="char:EOLhyphen"/>men to dethrone him, and to protest against him and his Go<g ref="char:EOLhyphen"/>vernment. I could wish, and many Thous<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nds more, the rea<g ref="char:EOLhyphen"/>sons might be seen, for nothing hath passed or been observed by diligent observers and partners with you in the same cause: That might render him unlovely or inacceptable to a<g ref="char:EOLhyphen"/>ny person whatsoever: However, if there be any grounds or considerations, that might induce the Army to such a grand transaction as this: first to reject and slight him, and then to
+<pb n="4" facs="tcp:95850:4"/> give reasons if there be any, is to hang a man first, and to try him afterward:</item>
+               <item>8. But if there be no substantial Grounds, as its presumed there none can be, even as little as you may blame the Sun for running his course, so harmlesse hath he been, whether then there hath been in any age, more unfaithfulnesse in justice, greater covenant breakers, persons so rebellious, men that hath rendred the blessed Gospel of Christ and professors there<g ref="char:EOLhyphen"/>of more uncomely then this Generation hath done, let the World judge, for indeed they have already given their verdict in the case which more is the pity.</item>
+               <item>
+                  <p>9. Whether your Invitation of the Long-Parliament (so cal<g ref="char:EOLhyphen"/>led) to return to their Trust, be not a transparent figment: who trusted them? the People. But the people since have delivered their Trust elswhere; for when the late Protectors did send out Writs, the people might have staid at home, there was none for<g ref="char:EOLhyphen"/>ced to Chuse, but freely they have Elected others: And if so be the Free choise and Election of the People make a Parliament, and they are also free to chuse, as often the providence of God shall put opportunity into their hands, then its very doubtfull whe<g ref="char:EOLhyphen"/>ther this be any other thing, than onely a Parliament so called, <hi>the people having freely Declared themselves otherwise.</hi>
+                  </p>
+                  <p>
+                     <hi>Obj.</hi> But if it be objected, that these Gentlemen with others, made a Vote in the Long Parliament, that they should not be dissolved, nor disturbed untill they themselves pleased or saw cause.</p>
+                  <p>
+                     <hi>Answ.</hi> Its a good way of Arguing if it would serve, for if ten or more Lords or great men should chuse Stewards and Tru<g ref="char:EOLhyphen"/>stees to mannage their Estates for best advantage, as usually they doe; and after they felt and tasted the sweet of their Trust, they should enter into a Combination, and resolve and agree a<g ref="char:EOLhyphen"/>mong themselves, that now having the sole dispose of their Lords Estates, that they would not be put out of their Stewardship, un<g ref="char:EOLhyphen"/>till they themselves pleased: Do you think that they that did thus truste these good Stewards was obliged by their, Stewards resolution, doubtlesse no: but if at any time afterward their Lords should appoint other Stewards, doubtlesse they ought to Officiate, and the others to shift for themselves, except they liked
+<pb n="5" facs="tcp:95850:4"/> to entertain them the second time, and whether this be not the present Case in hand, and these as much a Parliament as the other Stewards, is the Query?</p>
+               </item>
+               <item>10. Whether this Parliament (if it needs must be so called) with seventy more Gentlemen for a Senate, be not like to in<g ref="char:EOLhyphen"/>fringe the Peoples Rights and give lesse satisfaction than one sin<g ref="char:EOLhyphen"/>gle Person with a Parliament:
+<list>
+                     <item>The first Reason is, this Parlia<g ref="char:EOLhyphen"/>ment of 50 or 60. or thereabouts▪ and seventy more besides have every one of them a long train: there is never a one but is a File-leader, that is, hath at least; six or ten at his heels, to be pro<g ref="char:EOLhyphen"/>vided for one way or other: and all hungry as Hawkes ready to catch at any thing, and nothing will serve but the blood of the people, for they must be fed with something.</item>
+                     <item>2. <hi>Reason,</hi> Its against the standing rules of reason, the profes<g ref="char:EOLhyphen"/>sed principles of the Army, for any Power or Authority to have the Militia and the Command of the peoples purses, which this Parliament or people hath, which is both destructive and perni<g ref="char:EOLhyphen"/>cious; though the Command of the peoples purse was never de<g ref="char:EOLhyphen"/>sired or practised by a single person: And whether a Government setled by Parliament, under one head, to execute the laws of the Government so made by Parliament, be not more pleasing and rational than to have a Body consisting of so many heads, which is Monster like: The people generally doubtlesse had rather have their Laws executed by one person, which they love and honour, than to have a hundred or a hundred and fifty men equall or worse than themselves to domineer over them, as its too appa<g ref="char:EOLhyphen"/>rent they were accustomed to doe; besides, you will find in case of any exorbitancy in a Government, that one for his Trust is sooner dealt with than many▪</item>
+                  </list>
+               </item>
+               <item>11. Whether the <hi>Good Old Cause,</hi> so much talked of, be not ge<g ref="char:EOLhyphen"/>nerally mistaken: for what is this cause so much magnified, but that which you have possessed and enjoyed as free in this Protectors time, as in the Long-Parliament: nay, and more also by far: Now let us first enquire what it is: If first the Basis of all our feirce and fiery contests with all sorts, as well the pulling out the Long-Parliament themselves, as against the King and Bishops, were not for liberty of Conscience, and for a Tolleration of men
+<pb n="6" facs="tcp:95850:5"/> of different mindes in Gods Worship and Service; let every man <gap reason="illegible" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> the times, the Armies Declarations, and the course of things every year since the first beginning, and you will finde the (kindle cole of all differences were in this, that sometime Prelacy, and then Presbytery, both in <hi>England</hi> and <hi>Scotland</hi> had an itch to be beating their fellow-servants; and to ward the dint of their blow, presently we still betook our selves to our Arms: if you will say the Liberties of the people was part and a principle one too▪ Its true it was I believe not onely pretended, but intended also; But the people are the most proper judges, he that is beaten is best able to judge of the blows; and he that is diseased of the gout or the like, he is most sensible of the ease when he hath it: so the people, if their verdict may pass: Whether the executive power in this Protector or in Committees of Parliament be best, its too apparent, if the people (whose Servants these Gentlemen pretend to be) might speak and be heard, they would neither give them meat, drink, nor lodging for their work; but would be as bad as a High Court of Justice I fear.</item>
+            </list>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
